@@ -1,9 +1,0 @@
-"Part";"Value";"Device";"Package";"Description";"CATEGORY";"MANUFACTURER";"MAXIMUM_PACKAGE_HEIGHT";"MPN";"OPERATING_TEMP";"PARTREV";"PART_STATUS";"RATING";"ROHS_COMPLIANT";"SERIES";"STANDARD";"SUB-CATEGORY";"THERMALLOSS";"TOLERANCE";"TYPE";"VOLTAGE_RATING";
-"C3";"100nF";"C_CHIP-0402(1005-METRIC)";"CAPC1005X60";"Capacitor - Generic";"Capacitor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"C4";"100nF";"C_CHIP-0402(1005-METRIC)";"CAPC1005X60";"Capacitor - Generic";"Capacitor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"J1";"MOLEX_USB-C-2130830005";"MOLEX_USB-C-2130830005";"MOLEX_2130830005";"USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole";"";"Molex";"3.36mm";"";"";"A";"";"";"";"";"Manufacturer recommendations";"";"";"";"";"";
-"R1";"4.7K";"R-US_CHIP-0402(1005-METRIC)";"RESC1005X40";"Resistor Fixed - ANSI";"Resistor";"";"";"";"";"";"";"";"";"";"";"Fixed";"";"";"";"";
-"R2";"5.1K";"R-US_CHIP-0402(1005-METRIC)";"RESC1005X40";"Resistor Fixed - ANSI";"Resistor";"";"";"";"";"";"";"";"";"";"";"Fixed";"";"";"";"";
-"R3";"5.1K";"R-US_CHIP-0402(1005-METRIC)";"RESC1005X40";"Resistor Fixed - ANSI";"Resistor";"";"";"";"";"";"";"";"";"";"";"Fixed";"";"";"";"";
-"U$1";"1X3_POGO_PIN_HOLDER";"1X3_POGO_PIN_HOLDER";"1X3_POGO_PIN_HOLDER";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
-"U$6";"CH330N";"CH330N";"CH330N";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
